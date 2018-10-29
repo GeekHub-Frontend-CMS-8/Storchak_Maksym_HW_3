@@ -1,0 +1,25 @@
+body {
+       margin: 0 20%;
+}
+li{
+    list-style: none;
+}
+#table1 {
+    width: 100%;
+    border: 1px solid black;   
+}
+th {
+    font-weight: bold;
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+}
+table {
+    margin: 20px 0;
+}
+#table2, #table3  {
+    width: 70%;
+    margin: 20px 15%;
+    border: 1px solid black; 
+}
